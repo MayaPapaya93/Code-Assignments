@@ -1,0 +1,21 @@
+• cat
+• ncol, nrow
+• rowSum, colSum
+• dim
+• names
+• expand.grid
+• identical
+• library
+• length
+• ls; what does rm(list=ls()) do?
+• mean, median
+• max, min
+• paste
+• rnorm, runif
+• rank
+• sort, order
+• rep
+• seq
+• which, which.min, which.max
+• setdiff, intersect, union
+• table
